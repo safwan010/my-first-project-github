@@ -89,7 +89,5 @@ venv/
 git add .gitignore
 git commit -m "Added .gitignore to ignore Python-related files"
 
-# 5. Push all commits to GitHub
-git push origin main
 
 
