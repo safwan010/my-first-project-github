@@ -92,7 +92,4 @@ git commit -m "Added .gitignore to ignore Python-related files"
 # 5. Push all commits to GitHub
 git push origin main
 
-echo "# 🔢 Number Guessing Game by Safwan" | cat - guess_number.py > temp && mv temp guess_number.py
-git add guess_number.py
-git commit -m "Added header comment in feature-header"
-echo "print('Thanks for playing! 👍')" >> guess_number.py
+
